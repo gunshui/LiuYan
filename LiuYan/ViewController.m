@@ -25,6 +25,7 @@
     NSLog(@"ni hao ma wo buhao");
     NSLog(@"666666");
     NSLog(@"222");
+    UIButton*btn=[[UIButton alloc]init];
 }
 
 @end
