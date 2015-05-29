@@ -25,6 +25,24 @@
     NSLog(@"ni hao ma wo buhao");
     NSLog(@"666666");
     NSLog(@"222");
+    
+    NSLog(@"ni hao ma wo buhao");
+    NSLog(@"666666");
+    NSLog(@"222");
+
+    NSLog(@"ni hao ma wo buhao");
+    NSLog(@"666666");
+    NSLog(@"222");
+    
+    
+     // Do any additional setup after loading the view, typically from a nib.
+     // Do any additional setup after loading the view, typically from a nib.
+    
+    
+
+    
+    
+    
 }
 
 @end
