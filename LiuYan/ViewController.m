@@ -24,6 +24,7 @@
     // Dispose of any resources that can be recreated.
     NSLog(@"ni hao ma wo buhao");
     NSLog(@"666666");
+    NSLog(@"222");
 }
 
 @end
